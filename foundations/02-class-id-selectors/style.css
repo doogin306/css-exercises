@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: rgb(255, 153, 148);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id {
+    color: #0011eb;
+    font-size: 36px;
+}
+
+.paragraph.bigger {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #19f096;
+    font-size: 24px;
+    font-weight: 700;
+}
